@@ -32,5 +32,8 @@ yarn-error.*
 # local env files
 .env*.local
 
+# AWS configuration
+src/aws-exports.ts
+
 # typescript
 *.tsbuildinfo
